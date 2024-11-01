@@ -12,7 +12,7 @@ Modul ini dirancang untuk menghasilkan deret bilangan aritmatika dengan jumlah e
 
 1. **Clone repository ini ke dalam folder lokal Anda**:
     ```bash
-    git clone https://github.com/jehuakusumadewa/project-aritmatika
+    git clone https://github.com/jehuakusumadewa/project-aritmatika.git
     cd ke "folder lokal yang terdapat hasil clone repository"
     ```
 
